@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelaCadastroCliente", "TelaCadastroCliente\TelaCadastroCliente.csproj", "{A45D8B73-4DC3-4AF2-BEF9-1C8AA0840FBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A45D8B73-4DC3-4AF2-BEF9-1C8AA0840FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A45D8B73-4DC3-4AF2-BEF9-1C8AA0840FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A45D8B73-4DC3-4AF2-BEF9-1C8AA0840FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A45D8B73-4DC3-4AF2-BEF9-1C8AA0840FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E5851AD-CCE9-4788-84C2-82578D211DB9}
+	EndGlobalSection
+EndGlobal
